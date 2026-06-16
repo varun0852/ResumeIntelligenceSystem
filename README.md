@@ -17,6 +17,34 @@ Upload resumes → Paste a Job Description → Rank Candidates → Generate AI I
 
 ---
 
+## 🔐 Demo Credentials
+
+Use the following credentials to explore the platform:
+
+### Demo Account
+
+```text
+Username: demo
+Password: demo123
+```
+
+### Recruiter Account
+
+```text
+Username: recruiter
+Password: recruit123
+```
+
+### Admin Account
+
+```text
+Username: admin
+Password: admin123
+```
+
+> Note: Demo accounts are provided for testing and evaluation purposes.
+
+
 ## ⚙️ How It Works
 
 ```text
